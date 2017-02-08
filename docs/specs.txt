@@ -1,0 +1,127 @@
+Horse Racing Predictive Model Project:
+
+Project overview:
+
+To create a tool that will allow recreational punters to build out predictive models based on their opinions and hypothesis’. 
+
+Experience and UI:
+
+This will be firstly a web-based in-browser product. The product will allow the user to have the ability to create multiple “presets” based on their data input, essentially creating their own predictive models. The user has the ability to create multiple presets, creating a “Dashboard” of all of their presets. For example, a preset for “Fillies and mares ONLY”, “2YO ONLY”, “1600m+”, etc. 
+
+Once the users has defined their preset, they can select their notification options. In which they can be notified by e-mail when a horse becomes available that fits their criteria. This will help to keep engagement high and churn low.
+
+We will set-up an affiliate deal with a bookmaker, that will allow the users of the product to bet directly through the Dashboard. Following discussions with the bookmaker, we can also look to allow “auto-betting”, that allows a user to set rules to automatically bet on a horse when a certain criteria is met.
+
+Analytics: The product will also feature analytics for each of the users presets. This way they can see how each of their presets are performing. Perhaps we can also measure their presets against our historical data and run “simulations” on how their preset is expected to perform over the long run. 
+
+We will integrate “test my preset against ‘x’ years of data”. The user will then be able to simulate how their preset would have performed over a period of time.
+
+We would also building in a “staking strategy”, which would recommend bet sizing, etc. depending on what the individual wanted to achieve. You could run this staking strategy against the historical database (if we had historical prices available) and see how the preset would have performed with different staking strategies.
+
+Have leaderboard lists for the following:
+Top Trainer
+Top Jockey
+Upcoming Races
+Upcoming Meets
+
+Challenges:
+
+The biggest challenge is allowing users to intuitively get their ideas into a sophisticated predictive model. To do this, we will need to create an intuitive data entry tool, that allow users to seamlessly create their own presets, without being too technical.
+
+Users will need to input complex theories, if/this/then/that statements, in an extremely non-technical way. This is an absolute necessity, as it will considerably lower the barrier to entry for the punters.
+
+Target demographic:
+
+Males, 18 - 70.
+Recreational horse racing bettors. 
+Some computer/logic knowledge. (Tutorials/walkthroughs will be providers)
+
+Monetisation: 
+
+The number one way to monetise this service is through affiliate deals with an individual bookmaker or affiliate deals with multiple bookmakers. We will be able to get access to the bookmakers API through the affiliate deal. 
+
+Perhaps a way to ensure the affiliate deal comes through us, is to have the user sign-up to our service through their bookmakers account. For example: They cannot use our service unless they have a Sportsbet.com.au account or Palmerbet account, etc. This guarantees we will receive a portion of the affiliate money that comes through from them using the product.
+
+Community:
+
+A Slack community that allows open for open discussion on optimal presets and strategy. (https://slackpass.io/)
+
+A public forum - We can look to build conv.io on-top of this, once we have built some traction with the real product.
+
+YouTube content to promote discussion
+
+A community is essential to building out this product and generating constant engagement and reduced churn. We can also rely on the community for P2P growth marketing, if you refer a friend you receive “x” bonus at bookies, etc.
+
+Marketplace:
+
+Users can begin buying/selling access to each other’s presets. etc.
+
+Target markets:
+
+1. Australia/NZ Races
+2. HK/Singapore/Macau/Japan
+3. United Kingdom/Ireland
+4. USA
+
+Product roadmap and steps:
+
+1. Get historical data supplier. DONE. JK to build out back-end database infrastructure
+
+2. Find reliable ongoing data source for upcoming meetings and resulting to update historical database. AUS/NZ - DONE.
+
+3. Automatic algorithm built out to automatically sync upcoming race meets and updating historical database. AUS/NZ
+
+4. Build out front-end product.
+  - Tradefeed (very similar to trademate tradefeed, however this will house each preset a user creates. Essentially a new predictive model)
+    - Notifications engine - A user can decided how they want to be notified when a new horse becomes available that fits their criteria.
+  - Analytics
+  - Community
+    - Leaderboards
+    - Humblebrags
+    - Bet of the day
+    - “Follow” certain punters systems
+  - Marketplace
+  - Content Center
+
+5. Build out monetisation model through affiliate deals with Bookmakers or JV with one bookmaker.
+  - We only allow users to sign-up if they have an existing bookmaker account with one of our affiliate bookmakers.
+  - They can then place bets through the product
+  - Explore potential to “auto-bet” for the user on certain presets.
+
+6. Create content
+  - Tutorials
+  - Promotional content
+  - Interviews, results, etc. Thursday/Sunday YouTube content. Round-ups of Wednesday/Saturday’s races.
+
+7. Marketing
+  - Steve from the Daily25’s audience.
+  - P2P community marketing. Refer a friend and get a free $50 bet, etc.
+
+8. Affiliate deals with bookmakers OR JV with one bookmaker in particular.
+  - Provide marketing $$ and ready-made customer base.
+  - 30% of all profits comes back to us.
+
+9. Build out iOS and Android apps for this service.
+
+Monetisation model: 
+
+On average a punter would lose $50 - $100 per week betting on the horses. Let’s say $75 for average’s sake.
+
+30% of $75 = $22.50 per customer.
+
+Month 1: 100 users = $2,250 revenue
+Month 2: 300 users = $6,750 revenue
+Month 3: 800 users = $18,000 revenue
+Month 4: 1500 users = $33,750 revenue
+Month 5: 3000 users = $67,500 revenue
+Month 6: 5000 users = $112,500 revenue
+
+We could build out this horse racing project, it would take under 1 month.
+
+Essential ingredients that make this a worthwhile strategy.
+
+  - P2P growth and affiliate marketing
+  - Reduced churn and meaningful engagement to spur continued and sustained use of the product
+  - Product alerts through clubhouse. New horse that fits your criteria now available, etc.
+  - Content centre, tutorials, how-to’s, walkthroughs and entertainment content.
+  - Community Marketplace - Buy/Sell predictive models. Showcase your analytics, etc.
